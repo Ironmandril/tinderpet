@@ -1,0 +1,32 @@
+.body{
+    background-color: #fff;
+    border: 15px double rgb(77, 14, 14);
+    text-align: center;
+    width: 45%;
+    margin: 45px auto;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px solid #000; 
+
+    button{
+        border: 5px solid rgb(0, 255, 221);
+        border-radius: 5px;
+        color: rgb(115, 53, 230);
+        font-size: calc(10px + 1.3vw);
+        font-weight: bolder;
+        background-color: transparent;
+        margin: 10px;
+        padding: 20px;
+
+    }
+
+    img{
+        width: 45%;
+        border-radius: 5px;
+        }
+
+    h2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 5.3vh;
+    }
+}
